@@ -1,0 +1,1 @@
+## This Repository has all my solved Problem solutions from different coding platforms.
